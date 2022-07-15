@@ -2,7 +2,9 @@ nopCommerce/Screenshots/
 nopCommerce/Reports/
 nopCommerce/utilities/__pycache__/
 nopCommerce/.idea/
-nopCommerce/*/__pycache__/
+nopCommerce/testCases/__pycache__/
+nopCommerce/pageObjects/__pycache__/
+
 
 
 
