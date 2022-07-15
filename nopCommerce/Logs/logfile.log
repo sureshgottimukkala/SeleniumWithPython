@@ -1,0 +1,151 @@
+2022-07-14 16:54:03,855 :INFO : test_homePageTitle :
+ first name is 
+2022-07-14 16:58:42,234 :INFO : test_homePageTitle :
+ 1. Loading the App URL 
+2022-07-14 16:58:56,135 :INFO : test_homePageTitle :
+ 2. Verifying the homepage title 
+2022-07-14 16:59:08,017 :INFO : test_Login :
+ 1. Loading the App URL 
+2022-07-14 16:59:17,380 :INFO : test_Login :
+ 2. Enter Username 
+2022-07-14 16:59:17,498 :INFO : test_Login :
+ 3. Enter Password 
+2022-07-14 16:59:17,591 :INFO : test_Login :
+ 4. Click Login 
+2022-07-14 16:59:48,390 :INFO : test_Login :
+ 5. Verify if Login is successful 
+2022-07-14 17:16:18,583 :INFO : test_homePageTitle :
+ ************** test_homePageTitle *************** 
+2022-07-14 17:16:18,583 :INFO : test_homePageTitle :
+ 1. Loading the App URL 
+2022-07-14 17:16:39,872 :INFO : test_homePageTitle :
+ 2. Verifying the homepage title 
+2022-07-14 17:16:57,209 :INFO : test_Login :
+ ************* test_Login ***************** 
+2022-07-14 17:16:57,210 :INFO : test_Login :
+ 1. Loading the App URL 
+2022-07-14 17:17:10,457 :INFO : test_Login :
+ 2. Enter Username 
+2022-07-14 20:44:00,936 :INFO : test_homePageTitle :
+ ************** test_homePageTitle *************** 
+2022-07-14 20:44:00,936 :INFO : test_homePageTitle :
+ 1. Loading the App URL 
+2022-07-14 20:44:03,390 :INFO : test_homePageTitle :
+ 2. Verifying the homepage title 
+2022-07-14 20:44:03,397 :ERROR : test_homePageTitle :Failed verifying the title of the webpage
+2022-07-14 20:44:11,087 :INFO : test_Login :
+ ************* test_Login ***************** 
+2022-07-14 20:44:11,087 :INFO : test_Login :
+ 1. Loading the App URL 
+2022-07-14 20:44:13,409 :INFO : test_Login :
+ 2. Enter Username 
+2022-07-14 20:44:13,535 :INFO : test_Login :
+ 3. Enter Password 
+2022-07-14 20:44:13,628 :INFO : test_Login :
+ 4. Click Login 
+2022-07-14 20:44:17,174 :INFO : test_Login :
+ 5. Verify if Login is successful 
+2022-07-14 20:47:11,125 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 20:47:12,525 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 20:47:12,530 :ERROR : test_homePageTitle :*** Error: Failed verifying the title of the webpage ***
+2022-07-14 20:47:20,286 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 20:47:22,644 :INFO : test_Login :2. Enter Username 
+2022-07-14 20:47:22,762 :INFO : test_Login :3. Enter Password 
+2022-07-14 20:47:22,859 :INFO : test_Login :4. Click Login 
+2022-07-14 20:47:25,515 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 20:49:48,866 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 20:49:51,530 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 20:49:51,534 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 20:49:59,193 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 20:50:01,428 :INFO : test_Login :2. Enter Username 
+2022-07-14 20:50:01,549 :INFO : test_Login :3. Enter Password 
+2022-07-14 20:50:01,648 :INFO : test_Login :4. Click Login 
+2022-07-14 20:50:03,996 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 20:50:04,168 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:35:46,107 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:35:48,364 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:35:48,370 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:35:56,047 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:35:58,299 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:35:58,429 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:35:58,521 :INFO : test_Login :4. Click Login 
+2022-07-14 23:36:02,026 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:36:02,197 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:42:27,559 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:42:27,610 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:42:29,855 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:42:29,862 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:42:29,894 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:42:29,995 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:42:30,079 :INFO : test_Login :4. Click Login 
+2022-07-14 23:42:33,779 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:42:34,009 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:45:15,462 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:45:17,722 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:45:17,731 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:45:21,415 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:45:23,690 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:45:23,865 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:45:23,993 :INFO : test_Login :4. Click Login 
+2022-07-14 23:45:27,679 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:45:27,888 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:46:03,039 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:46:05,287 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:46:05,294 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:46:13,032 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:46:15,325 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:46:15,512 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:46:15,637 :INFO : test_Login :4. Click Login 
+2022-07-14 23:46:19,151 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:46:19,368 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:46:51,084 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:46:53,434 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:46:53,441 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:46:57,133 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:46:59,352 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:46:59,525 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:46:59,649 :INFO : test_Login :4. Click Login 
+2022-07-14 23:47:03,107 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:47:03,405 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:49:07,043 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:49:09,646 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:49:09,652 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:49:17,464 :INFO : test_Login :1. Loading the App URL 
+2022-07-14 23:49:19,708 :INFO : test_Login :2. Enter Username 
+2022-07-14 23:49:19,828 :INFO : test_Login :3. Enter Password 
+2022-07-14 23:49:19,949 :INFO : test_Login :4. Click Login 
+2022-07-14 23:49:23,630 :INFO : test_Login :5. Verify if Login is successful 
+2022-07-14 23:49:24,295 :INFO : test_Login :PASSED: Login Successful
+2022-07-14 23:53:37,359 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:53:39,629 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:53:39,640 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:56:45,352 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:56:47,646 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:56:47,653 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:57:49,741 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:57:51,286 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:57:51,295 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:59:21,372 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:59:22,635 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:59:22,642 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-14 23:59:53,770 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-14 23:59:55,059 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-14 23:59:55,066 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:01:04,442 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:01:06,878 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:01:06,887 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:01:36,841 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:01:39,216 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:01:39,226 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:02:24,330 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:02:25,661 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:02:25,672 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:02:46,261 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:02:48,596 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:02:48,604 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:33:48,235 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:33:50,536 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:33:50,543 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-07-15 00:34:43,525 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-07-15 00:34:45,825 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-07-15 00:34:45,831 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
