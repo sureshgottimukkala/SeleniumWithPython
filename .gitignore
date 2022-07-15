@@ -2,5 +2,8 @@ nopCommerce/Screenshots/
 nopCommerce/Reports/
 nopCommerce/utilities/__pycache__/
 nopCommerce/.idea/
+nopCommerce/*/__pycache__/
+
+
 
 
