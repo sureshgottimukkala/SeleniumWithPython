@@ -34,7 +34,7 @@ class Test_001_Login(BaseClass):
             assert False
 
     @pytest.mark.usefixtures("setup")
-    def ggtest_Login(self):
+    def test_Login(self):
         RootDir = self.setRootDir()
         log = self.getLogger()
         # log.info("\n ************* test_Login ***************** ")
