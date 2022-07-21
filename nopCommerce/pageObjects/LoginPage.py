@@ -29,5 +29,8 @@ class Login:
 
     def clickLogin(self):
         self.driver.find_element(By.XPATH, self.button_login_xpath).click()
-        eleText = self.driver.find_element(By.XPATH, self.link_loginUserName_xpath).text
-        return eleText
+        # eleText = self.driver.find_element(By.XPATH, self.link_loginUserName_xpath).text
+        # return eleText
+
+    def clickLogout(self):
+        self.driver.find_element(By.LINK_TEXT, self.link_logout_linkText).click()

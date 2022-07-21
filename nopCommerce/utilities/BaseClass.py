@@ -10,7 +10,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 
-# @pytest.mark.usefixtures("setup")
 class BaseClass:
 
     @staticmethod
@@ -18,21 +17,23 @@ class BaseClass:
         RootDir = os.path.realpath(os.path.join(os.path.dirname(__file__), ".."))
         return RootDir
 
-    def getLogger(self):
+    @staticmethod
+    def getLogger():
 
-        logging.basicConfig(filename='.\\Logs\\logfile.log', formatter='%(asctime)s :%(levelname)s : %(name)s :%(message)s')
-        logger = logging.getLogger()
-        logger.setLevel(logging.INFO)
+        # logging.basicConfig(filename='.\\Logs\\logfile.log', formatter='%(asctime)s :%(levelname)s : %(name)s :%(
+        # message)s')
+        # logger = logging.getLogger()
+        # logger.setLevel(logging.INFO)
 
         # <<<< Another way of logging >>>>>>>>>>>>
 
-        # loggerName = inspect.stack()[1][3]
-        # logger = logging.getLogger(loggerName)
-        # fileHandler = logging.FileHandler('.\\Logs\\logfile.log')
-        # formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
-        # fileHandler.setFormatter(formatter)
-        # logger.addHandler(fileHandler)  # filehandler object
-        # logger.setLevel(logging.DEBUG)
+        loggerName = inspect.stack()[1][3]
+        logger = logging.getLogger(loggerName)
+        fileHandler = logging.FileHandler('.\\Logs\\logfile.log')
+        formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
+        fileHandler.setFormatter(formatter)
+        logger.addHandler(fileHandler)  # filehandler object
+        logger.setLevel(logging.DEBUG)
 
         # <<<< Another way of logging >>>>>>>>>>>>
         return logger

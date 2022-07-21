@@ -242,8 +242,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
     notFoundMessage.hidden = !allRowsHidden;
 }
 </script>
-    <h1>report.html</h1>
-    <p>Report generated on 16-Jul-2022 at 14:42:36 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <h1>report1.html</h1>
+    <p>Report generated on 20-Jul-2022 at 18:36:58 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Suresh G</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 38.10 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">1 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>1 tests ran in 13.57 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">1 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -277,37 +277,37 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
           <th class="sortable links" col="links">Links</th></tr>
         <tr hidden="true" id="not-found-message">
           <th colspan="4">No results found. Try to check the filters</th></tr></thead>
-      <tbody class="failed results-table-row">
-        <tr>
-          <td class="col-result">Failed</td>
-          <td class="col-name">testCases/test_Login.py::Test_001_Login::test_homePageTitle</td>
-          <td class="col-duration">15.39</td>
-          <td class="col-links"><a class="url" href="https://google.com" target="_blank">URL</a> </td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div><div><img src= "./Screenshots/fail_test_Login.py_Test_001_Login_test_homePageTitle_2022-07-16_144210.png" alt="screenshot" style="width:304px;height:228px;" onclick="window.open(this.src)" align="right"/></div></div>
-            <div class="log">[gw0] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe<br/>[gw0] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe[gw0] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe<br/><br/>self = &lt;testCases.test_Login.Test_001_Login object at 0x0000020F331BCB80&gt;<br/><br/>    @pytest.mark.usefixtures(&quot;setup&quot;)<br/>    def test_homePageTitle(self):<br/>        log = self.getLogger()<br/>        # log.info(&quot;\n ************** test_homePageTitle *************** &quot;)<br/>        log.info(&quot;1. Loading the App URL &quot;)<br/>        RootDir = self.setRootDir()<br/>        # self.driver.get(self.baseURL)<br/>        self.driver.get(ReadProperties.getAppURL())<br/>        log.info(&quot;2. Verifying the homepage title &quot;)<br/>        act_title = self.driver.title<br/>        if act_title == &quot;Your store. Login1&quot;:<br/>            log.info(&quot;PASSED: Verifying Homepage Title is Successful&quot;)<br/>            assert True<br/>        else:<br/>            # now = datetime.now().strftime(&quot;%y-%m-%d-%H%M%S&quot;)<br/>            # self.driver.get_screenshot_as_file(RootDir[0] + r&#x27;\Screenshots\screenshot-%s.png&#x27; % now)<br/>            log.error(&quot;Error: Failed verifying the title of the webpage&quot;)<br/>&gt;           assert False<br/><span class="error">E           assert False</span><br/><br/>testCases\test_Login.py:34: AssertionError[gw0] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe<br/> -----------------------------Captured stdout setup------------------------------ <br/>Initializing the driver....
-
-
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login.py:21 1. Loading the App URL 
-INFO     root:test_Login.py:25 2. Verifying the homepage title 
-ERROR    root:test_Login.py:33 Error: Failed verifying the title of the webpage<br/> ----------------------------Captured stdout teardown---------------------------- <br/>Closing the browser
-<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">testCases/test_Login.py::Test_001_Login::test_Login</td>
-          <td class="col-duration">17.26</td>
+          <td class="col-name">testCases/test_Login_ddt.py::Test_001_Login::test_Login</td>
+          <td class="col-duration">12.88</td>
           <td class="col-links"><a class="url" href="https://google.com" target="_blank">URL</a> </td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="log">[gw1] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe<br/>[gw1] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe[gw1] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe[gw1] win32 -- Python 3.9.5 D:\AutomationTesting\PyCharmWS\nopCommerce\venv\Scripts\python.exe<br/> -----------------------------Captured stdout setup------------------------------ <br/>Initializing the driver....
+            <div class="log"> -----------------------------Captured stdout setup------------------------------ <br/>Initializing the driver....
 
-
-<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login.py:41 1. Loading the App URL 
-INFO     root:test_Login.py:46 2. Enter Username 
-INFO     root:test_Login.py:48 3. Enter Password 
-INFO     root:test_Login.py:50 4. Click Login 
-INFO     root:test_Login.py:53 5. Verify if Login is successful 
-INFO     root:test_Login.py:58 PASSED: Login Successful<br/> ----------------------------Captured stdout teardown---------------------------- <br/>Closing the browser
+<br/> ------------------------------Captured stdout call------------------------------ <br/>RowCount: 5
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     Test_001_Login:test_Login_ddt.py:27 1. Loading the App URL 
+INFO     Test_001_Login:test_Login_ddt.py:40 2. Enter Username 
+INFO     Test_001_Login:test_Login_ddt.py:42 3. Enter Password 
+INFO     Test_001_Login:test_Login_ddt.py:44 4. Click Login 
+INFO     Test_001_Login:test_Login_ddt.py:48 5. Verify if Login is successful 
+INFO     Test_001_Login:test_Login_ddt.py:57 PASSED: Login Successful
+INFO     Test_001_Login:test_Login_ddt.py:40 2. Enter Username 
+INFO     Test_001_Login:test_Login_ddt.py:42 3. Enter Password 
+INFO     Test_001_Login:test_Login_ddt.py:44 4. Click Login 
+INFO     Test_001_Login:test_Login_ddt.py:48 5. Verify if Login is successful 
+INFO     Test_001_Login:test_Login_ddt.py:69 Passed: verifying the negative scenario
+INFO     Test_001_Login:test_Login_ddt.py:40 2. Enter Username 
+INFO     Test_001_Login:test_Login_ddt.py:42 3. Enter Password 
+INFO     Test_001_Login:test_Login_ddt.py:44 4. Click Login 
+INFO     Test_001_Login:test_Login_ddt.py:48 5. Verify if Login is successful 
+INFO     Test_001_Login:test_Login_ddt.py:69 Passed: verifying the negative scenario
+INFO     Test_001_Login:test_Login_ddt.py:40 2. Enter Username 
+INFO     Test_001_Login:test_Login_ddt.py:42 3. Enter Password 
+INFO     Test_001_Login:test_Login_ddt.py:44 4. Click Login 
+INFO     Test_001_Login:test_Login_ddt.py:48 5. Verify if Login is successful 
+INFO     Test_001_Login:test_Login_ddt.py:69 Passed: verifying the negative scenario
+INFO     Test_001_Login:test_Login_ddt.py:73 ********* Test Case Passed **********<br/> ----------------------------Captured stdout teardown---------------------------- <br/>Closing the browser
 <br/></div></td></tr></tbody></table></body></html>
