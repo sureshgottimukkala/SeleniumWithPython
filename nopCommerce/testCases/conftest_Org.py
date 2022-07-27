@@ -46,7 +46,7 @@ def setup(request):
         driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
     driver.maximize_window()
     driver.implicitly_wait(30)
-    # request.instance.driver = driver
+    request.instance.driver = driver
 
     yield driver
     print("Closing the browser")
@@ -99,7 +99,6 @@ def pytest_runtest_makereport(item, call):
             # extra.append(pytest_html.extras.html('<div>Additional HTML</div>'))
         # always add url to report
         extra.append(pytest_html.extras.url("https://google.com"))
-        extra.append(pytest_html.extras.text("Naa Peru Suresh ra"))
         report.extra = extra
 
 

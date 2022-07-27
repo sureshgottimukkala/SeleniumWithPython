@@ -11,6 +11,15 @@ from utilities.ReadProperties import ReadProperties
 ROOT_DIR = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 now = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 
+# Best way for path setting
+# from pathlib import Path
+#
+# featureFileDir = "BDD\\Features"
+# featureFileName = "Login.feature"
+# BASE_DIR = Path(__file__).resolve().parent.parent
+# print(BASE_DIR)
+# FeatureFile = BASE_DIR.joinpath(featureFileDir).joinpath(featureFileName)
+
 
 class Test_001_Login(BaseClass):
 
@@ -34,7 +43,7 @@ class Test_001_Login(BaseClass):
             assert False
 
     @pytest.mark.usefixtures("setup")
-    def ggtest_Login(self):
+    def test_Login(self):
         RootDir = self.setRootDir()
         log = self.getLogger()
         # log.info("\n ************* test_Login ***************** ")
@@ -44,6 +53,7 @@ class Test_001_Login(BaseClass):
         # self.lp.setUserName(self.userName)
         # self.lp.setPassword(self.password)
         log.info("2. Enter Username ")
+        log.info(BaseClass.random_generator())
         self.lp.setUserName(ReadProperties.getUserName())
         log.info("3. Enter Password ")
         self.lp.setPassword(ReadProperties.getPassword())

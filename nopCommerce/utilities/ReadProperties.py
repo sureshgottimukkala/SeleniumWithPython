@@ -19,3 +19,4 @@ class ReadProperties:
     @staticmethod
     def getPassword():
         return config.get('common_vars', 'password')
+
