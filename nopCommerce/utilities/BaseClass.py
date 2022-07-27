@@ -1,3 +1,5 @@
+import random
+import string
 from datetime import datetime
 import logging
 import inspect
@@ -45,3 +47,7 @@ class BaseClass:
     def selectOptionByText(self, locator, text):
         sel = Select(locator)
         sel.select_by_visible_text(text)
+
+    @staticmethod
+    def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
+        return ''.join(random.choice(chars) for x in range(size))

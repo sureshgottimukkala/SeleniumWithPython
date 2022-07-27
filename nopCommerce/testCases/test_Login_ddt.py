@@ -33,10 +33,11 @@ class Test_001_Login:
         RowCount = utilities.ExcelUtils.getRowCount(self.filePath, "Sheet1")
         lst_status = []
         print("RowCount:", RowCount)
-
+        self.log.info(BaseClass.random_generator())
         for i in range(2, RowCount + 1):
             userName = utilities.ExcelUtils.readExcelData(self.filePath, "Sheet1", i, 1)
             passWord = utilities.ExcelUtils.readExcelData(self.filePath, "Sheet1", i, 2)
+
             self.log.info("2. Enter Username ")
             self.lp.setUserName(userName)
             self.log.info("3. Enter Password ")

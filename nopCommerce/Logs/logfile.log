@@ -428,3 +428,467 @@ p URL
 2022-07-20 18:36:58,026 :INFO : Test_001_Login :5. Verify if Login is successful 
 2022-07-20 18:36:58,041 :INFO : Test_001_Login :Passed: verifying the negative scenario
 2022-07-20 18:36:58,041 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 16:46:27,726 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 16:46:30,021 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:46:30,135 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:46:30,234 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:46:33,525 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:46:35,308 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 16:46:35,320 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:46:35,411 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:46:35,497 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:46:35,545 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:46:35,550 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:46:35,558 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:46:35,644 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:46:35,707 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:46:35,752 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:46:35,758 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:46:35,766 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:46:35,843 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:46:35,901 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:46:35,933 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:46:35,938 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:46:35,939 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 16:48:32,909 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 16:50:05,790 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 16:50:07,059 :INFO : Test_001_Login :re23t6n2
+2022-07-24 16:50:07,075 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:50:07,205 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:50:07,312 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:50:10,920 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:50:12,787 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 16:50:12,801 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:50:12,896 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:50:12,979 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:50:13,029 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:50:13,035 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:50:13,045 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:50:13,132 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:50:13,195 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:50:13,243 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:50:13,247 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:50:13,257 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 16:50:13,333 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 16:50:13,390 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 16:50:13,420 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 16:50:13,426 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 16:50:13,426 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 22:41:14,420 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 22:41:16,934 :INFO : Test_001_Login :7irb8dfx
+2022-07-24 22:41:16,950 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:41:17,055 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:41:17,145 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:41:20,617 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:41:22,431 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 22:41:22,444 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:41:22,536 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:41:22,625 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:41:22,673 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:41:22,678 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:41:22,686 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:41:22,769 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:41:22,834 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:41:22,881 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:41:22,885 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:41:22,894 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:41:22,970 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:41:23,032 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:41:23,067 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:41:23,073 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:41:23,073 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 22:43:05,392 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 22:43:07,639 :INFO : Test_001_Login :k59t059o
+2022-07-24 22:43:07,654 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:43:07,765 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:43:07,855 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:43:11,284 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:43:13,149 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 22:43:13,161 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:43:13,252 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:43:13,343 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:43:13,391 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:43:13,396 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:43:13,405 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:43:13,495 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:43:13,570 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:43:13,610 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:43:13,615 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:43:13,624 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:43:13,710 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:43:13,779 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:43:13,814 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:43:13,819 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:43:13,819 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 22:45:10,227 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 22:45:12,482 :INFO : Test_001_Login :dl3prmwo
+2022-07-24 22:45:12,495 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:45:12,601 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:45:12,691 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:45:16,387 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:45:18,075 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 22:45:18,087 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:45:18,176 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:45:18,269 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:45:18,318 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:45:18,324 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:45:18,332 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:45:18,419 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:45:18,494 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:45:18,534 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:45:18,539 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:45:18,547 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:45:18,623 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:45:18,683 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:45:18,716 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:45:18,721 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:45:18,721 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 22:46:55,345 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 22:46:56,595 :INFO : Test_001_Login :szw2gpuz
+2022-07-24 22:46:56,609 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:46:56,714 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:46:56,803 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:46:59,192 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:47:00,843 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 22:47:00,856 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:47:00,948 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:47:01,039 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:47:01,090 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:47:01,095 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:47:01,105 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:47:01,192 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:47:01,257 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:47:01,291 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:47:01,296 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:47:01,305 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:47:01,390 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:47:01,452 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:47:01,487 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:47:01,493 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:47:01,493 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-24 22:48:19,835 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-24 22:48:21,084 :INFO : Test_001_Login :bx15f5vj
+2022-07-24 22:48:21,095 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:48:21,216 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:48:21,314 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:48:24,911 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:48:26,683 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-24 22:48:26,696 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:48:26,786 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:48:26,872 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:48:26,921 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:48:26,926 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:48:26,933 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:48:27,018 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:48:27,081 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:48:27,127 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:48:27,131 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:48:27,140 :INFO : Test_001_Login :2. Enter Username 
+2022-07-24 22:48:27,218 :INFO : Test_001_Login :3. Enter Password 
+2022-07-24 22:48:27,281 :INFO : Test_001_Login :4. Click Login 
+2022-07-24 22:48:27,317 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-24 22:48:27,322 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-24 22:48:27,322 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:25:40,626 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:25:42,922 :INFO : Test_001_Login :bw4vhk3e
+2022-07-25 00:25:42,930 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:25:43,038 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:25:43,129 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:25:46,349 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:25:48,254 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:25:48,262 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:25:48,350 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:25:48,446 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:25:48,494 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:25:48,494 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:25:48,502 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:25:48,590 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:25:48,654 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:25:48,702 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:25:48,710 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:25:48,718 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:25:48,790 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:25:48,856 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:25:48,895 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:25:48,895 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:25:48,895 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:26:32,310 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:26:34,482 :INFO : Test_001_Login :g5eojuda
+2022-07-25 00:26:34,490 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:26:34,603 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:26:34,691 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:26:38,052 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:26:39,814 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:26:39,822 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:26:39,902 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:26:39,982 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:26:40,030 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:26:40,038 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:26:40,038 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:26:40,120 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:26:40,182 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:26:40,222 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:26:40,231 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:26:40,238 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:26:40,310 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:26:40,366 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:26:40,398 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:26:40,406 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:26:40,406 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:27:12,477 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:27:13,655 :INFO : Test_001_Login :k901dp2u
+2022-07-25 00:27:13,671 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:27:13,784 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:27:13,880 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:27:16,079 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:27:17,792 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:27:17,800 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:27:17,888 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:27:17,976 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:27:18,016 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:27:18,024 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:27:18,032 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:27:18,120 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:27:18,184 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:27:18,232 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:27:18,240 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:27:18,248 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:27:18,328 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:27:18,393 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:27:18,425 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:27:18,433 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:27:18,433 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:28:29,662 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:28:31,850 :INFO : Test_001_Login :6u2qik7j
+2022-07-25 00:28:31,866 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:28:31,962 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:28:32,050 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:28:35,349 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:28:37,122 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:28:37,138 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:28:37,218 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:28:37,300 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:28:37,346 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:28:37,354 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:28:37,362 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:28:37,450 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:28:37,514 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:28:37,554 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:28:37,562 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:28:37,570 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:28:37,642 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:28:37,707 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:28:37,739 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:28:37,739 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:28:37,739 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:29:49,658 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:29:51,782 :INFO : Test_001_Login :c8wa89vj
+2022-07-25 00:29:51,798 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:29:51,886 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:29:51,966 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:29:55,123 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:29:56,960 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:29:56,976 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:29:57,056 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:29:57,143 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:29:57,191 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:29:57,199 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:29:57,207 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:29:57,279 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:29:57,359 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:29:57,391 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:29:57,399 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:29:57,407 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:29:57,479 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:29:57,536 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:29:57,568 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:29:57,576 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:29:57,576 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 00:30:35,931 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 00:30:38,076 :INFO : Test_001_Login :p04nbt0p
+2022-07-25 00:30:38,092 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:30:38,182 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:30:38,270 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:30:41,433 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:30:43,362 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 00:30:43,369 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:30:43,449 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:30:43,537 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:30:43,585 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:30:43,593 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:30:43,601 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:30:43,681 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:30:43,746 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:30:43,797 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:30:43,797 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:30:43,810 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 00:30:43,883 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 00:30:43,946 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 00:30:43,978 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 00:30:43,986 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 00:30:43,986 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 01:11:58,280 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 01:12:00,524 :INFO : Test_001_Login :bjvhjmh0
+2022-07-25 01:12:00,534 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 01:12:00,646 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 01:12:00,736 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 01:12:04,133 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 01:12:05,982 :INFO : Test_001_Login :PASSED: Login Successful
+2022-07-25 01:12:05,994 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 01:12:06,083 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 01:12:06,167 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 01:12:06,212 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 01:12:06,218 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 01:12:06,230 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 01:12:06,318 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 01:12:06,381 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 01:12:06,423 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 01:12:06,428 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 01:12:06,438 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 01:12:06,517 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 01:12:06,581 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 01:12:06,615 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 01:12:06,620 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 01:12:06,620 :INFO : Test_001_Login :********* Test Case Passed **********
+2022-07-25 02:06:43,028 :INFO : Test_001_Login :1. Loading the App URL 
+2022-07-25 02:06:45,203 :INFO : Test_001_Login :8ms6wt17
+2022-07-25 02:06:45,217 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 02:06:45,324 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 02:06:45,414 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 02:06:48,783 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 02:06:48,787 :ERROR : Test_001_Login :Error: Failed verifying the successful logging into the App
+2022-07-25 02:06:48,787 :INFO : Test_001_Login :Credentials used are : UserName : admin@yourstore.com and Password : admin
+2022-07-25 02:06:50,588 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 02:06:50,677 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 02:06:50,761 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 02:06:50,809 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 02:06:50,814 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 02:06:50,822 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 02:06:50,908 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 02:06:50,982 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 02:06:51,019 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 02:06:51,024 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 02:06:51,033 :INFO : Test_001_Login :2. Enter Username 
+2022-07-25 02:06:51,113 :INFO : Test_001_Login :3. Enter Password 
+2022-07-25 02:06:51,173 :INFO : Test_001_Login :4. Click Login 
+2022-07-25 02:06:51,208 :INFO : Test_001_Login :5. Verify if Login is successful 
+2022-07-25 02:06:51,214 :INFO : Test_001_Login :Passed: verifying the negative scenario
+2022-07-25 02:06:51,214 :ERROR : Test_001_Login :********* Test Case failed *********
+2022-07-26 10:04:41,186 :INFO : <module> :1. Loading the App URL 
+2022-07-26 10:06:28,665 :INFO : <module> :1. Loading the App URL 
+2022-07-26 10:07:20,911 :INFO : <module> :1. Loading the App URL 
+2022-07-26 10:07:23,286 :INFO : <module> :xan9z28c
+2022-07-26 10:07:23,286 :INFO : <module> :2. Enter Username 
+2022-07-26 10:07:23,407 :INFO : <module> :3. Enter Password 
+2022-07-26 10:07:23,501 :INFO : <module> :4. Click Login 
+2022-07-26 10:07:26,817 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:07:26,821 :ERROR : <module> :Error: Failed verifying the successful logging into the App
+2022-07-26 10:07:26,821 :INFO : <module> :Credentials used are : UserName : admin@yourstore.com and Password : admin
+2022-07-26 10:07:28,585 :INFO : <module> :2. Enter Username 
+2022-07-26 10:07:28,667 :INFO : <module> :3. Enter Password 
+2022-07-26 10:07:28,755 :INFO : <module> :4. Click Login 
+2022-07-26 10:07:28,821 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:07:28,829 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:07:28,841 :INFO : <module> :2. Enter Username 
+2022-07-26 10:07:28,917 :INFO : <module> :3. Enter Password 
+2022-07-26 10:07:28,990 :INFO : <module> :4. Click Login 
+2022-07-26 10:07:29,022 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:07:29,030 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:07:29,043 :INFO : <module> :2. Enter Username 
+2022-07-26 10:07:29,115 :INFO : <module> :3. Enter Password 
+2022-07-26 10:07:29,173 :INFO : <module> :4. Click Login 
+2022-07-26 10:07:29,205 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:07:29,213 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:07:29,214 :ERROR : <module> :********* Test Case failed *********
+2022-07-26 10:08:27,448 :INFO : <module> :1. Loading the App URL 
+2022-07-26 10:08:29,630 :INFO : <module> :jsjobke5
+2022-07-26 10:08:29,645 :INFO : <module> :2. Enter Username 
+2022-07-26 10:08:29,754 :INFO : <module> :3. Enter Password 
+2022-07-26 10:08:29,854 :INFO : <module> :4. Click Login 
+2022-07-26 10:08:33,120 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:08:34,926 :INFO : <module> :PASSED: Login Successful
+2022-07-26 10:08:34,939 :INFO : <module> :2. Enter Username 
+2022-07-26 10:08:35,027 :INFO : <module> :3. Enter Password 
+2022-07-26 10:08:35,115 :INFO : <module> :4. Click Login 
+2022-07-26 10:08:35,162 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:08:35,169 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:08:35,177 :INFO : <module> :2. Enter Username 
+2022-07-26 10:08:35,263 :INFO : <module> :3. Enter Password 
+2022-07-26 10:08:35,332 :INFO : <module> :4. Click Login 
+2022-07-26 10:08:35,372 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:08:35,378 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:08:35,387 :INFO : <module> :2. Enter Username 
+2022-07-26 10:08:35,465 :INFO : <module> :3. Enter Password 
+2022-07-26 10:08:35,526 :INFO : <module> :4. Click Login 
+2022-07-26 10:08:35,559 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 10:08:35,565 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 10:08:35,565 :INFO : <module> :********* Test Case Passed **********
+2022-07-26 13:57:00,871 :INFO : <module> :1. Loading the App URL 
+2022-07-26 13:57:02,299 :INFO : <module> :8tl2mu5l
+2022-07-26 13:57:02,315 :INFO : <module> :2. Enter Username 
+2022-07-26 13:57:02,421 :INFO : <module> :3. Enter Password 
+2022-07-26 13:57:02,514 :INFO : <module> :4. Click Login 
+2022-07-26 13:57:04,959 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 13:57:06,610 :INFO : <module> :PASSED: Login Successful
+2022-07-26 13:57:06,626 :INFO : <module> :2. Enter Username 
+2022-07-26 13:57:06,707 :INFO : <module> :3. Enter Password 
+2022-07-26 13:57:06,791 :INFO : <module> :4. Click Login 
+2022-07-26 13:57:06,832 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 13:57:06,837 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 13:57:06,845 :INFO : <module> :2. Enter Username 
+2022-07-26 13:57:06,929 :INFO : <module> :3. Enter Password 
+2022-07-26 13:57:06,991 :INFO : <module> :4. Click Login 
+2022-07-26 13:57:07,029 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 13:57:07,035 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 13:57:07,043 :INFO : <module> :2. Enter Username 
+2022-07-26 13:57:07,128 :INFO : <module> :3. Enter Password 
+2022-07-26 13:57:07,189 :INFO : <module> :4. Click Login 
+2022-07-26 13:57:07,222 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 13:57:07,227 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 13:57:07,227 :INFO : <module> :********* Test Case Passed **********
+2022-07-26 14:00:54,265 :INFO : <module> :1. Loading the App URL 
+2022-07-26 14:00:55,507 :INFO : <module> :6f1wh810
+2022-07-26 14:00:55,519 :INFO : <module> :2. Enter Username 
+2022-07-26 14:00:55,637 :INFO : <module> :3. Enter Password 
+2022-07-26 14:00:55,731 :INFO : <module> :4. Click Login 
+2022-07-26 14:00:59,006 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:01:00,902 :INFO : <module> :PASSED: Login Successful
+2022-07-26 14:01:00,912 :INFO : <module> :2. Enter Username 
+2022-07-26 14:01:01,002 :INFO : <module> :3. Enter Password 
+2022-07-26 14:01:01,091 :INFO : <module> :4. Click Login 
+2022-07-26 14:01:01,140 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:01:01,145 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:01:01,154 :INFO : <module> :2. Enter Username 
+2022-07-26 14:01:01,234 :INFO : <module> :3. Enter Password 
+2022-07-26 14:01:01,302 :INFO : <module> :4. Click Login 
+2022-07-26 14:01:01,350 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:01:01,355 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:01:01,362 :INFO : <module> :2. Enter Username 
+2022-07-26 14:01:01,445 :INFO : <module> :3. Enter Password 
+2022-07-26 14:01:01,510 :INFO : <module> :4. Click Login 
+2022-07-26 14:01:01,547 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:01:01,551 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:01:01,551 :INFO : <module> :********* Test Case Passed **********
+2022-07-26 14:03:43,538 :INFO : <module> :1. Loading the App URL 
+2022-07-26 14:03:44,833 :INFO : <module> :y8j0brjq
+2022-07-26 14:03:44,849 :INFO : <module> :2. Enter Username 
+2022-07-26 14:03:44,957 :INFO : <module> :3. Enter Password 
+2022-07-26 14:03:45,049 :INFO : <module> :4. Click Login 
+2022-07-26 14:03:48,397 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:03:50,204 :INFO : <module> :PASSED: Login Successful
+2022-07-26 14:03:50,214 :INFO : <module> :2. Enter Username 
+2022-07-26 14:03:50,307 :INFO : <module> :3. Enter Password 
+2022-07-26 14:03:50,396 :INFO : <module> :4. Click Login 
+2022-07-26 14:03:50,446 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:03:50,452 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:03:50,461 :INFO : <module> :2. Enter Username 
+2022-07-26 14:03:50,550 :INFO : <module> :3. Enter Password 
+2022-07-26 14:03:50,618 :INFO : <module> :4. Click Login 
+2022-07-26 14:03:50,661 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:03:50,667 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:03:50,676 :INFO : <module> :2. Enter Username 
+2022-07-26 14:03:50,757 :INFO : <module> :3. Enter Password 
+2022-07-26 14:03:50,819 :INFO : <module> :4. Click Login 
+2022-07-26 14:03:50,856 :INFO : <module> :5. Verify if Login is successful 
+2022-07-26 14:03:50,861 :INFO : <module> :Passed: verifying the negative scenario
+2022-07-26 14:03:50,861 :INFO : <module> :********* Test Case Passed **********
