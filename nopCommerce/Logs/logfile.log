@@ -892,3 +892,49 @@ p URL
 2022-07-26 14:03:50,856 :INFO : <module> :5. Verify if Login is successful 
 2022-07-26 14:03:50,861 :INFO : <module> :Passed: verifying the negative scenario
 2022-07-26 14:03:50,861 :INFO : <module> :********* Test Case Passed **********
+2022-08-01 02:39:48,204 :INFO : <module> :1. Loading the App URL 
+2022-08-01 02:39:50,479 :INFO : <module> :m887g53u
+2022-08-01 02:39:50,510 :INFO : <module> :2. Enter Username 
+2022-08-01 02:39:50,667 :INFO : <module> :3. Enter Password 
+2022-08-01 02:39:50,808 :INFO : <module> :4. Click Login 
+2022-08-01 02:39:54,400 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:39:56,282 :INFO : <module> :PASSED: Login Successful
+2022-08-01 02:39:56,310 :INFO : <module> :2. Enter Username 
+2022-08-01 02:39:56,473 :INFO : <module> :3. Enter Password 
+2022-08-01 02:39:56,621 :INFO : <module> :4. Click Login 
+2022-08-01 02:39:56,735 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:39:56,745 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:39:56,761 :INFO : <module> :2. Enter Username 
+2022-08-01 02:39:56,934 :INFO : <module> :3. Enter Password 
+2022-08-01 02:39:57,041 :INFO : <module> :4. Click Login 
+2022-08-01 02:39:57,116 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:39:57,125 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:39:57,145 :INFO : <module> :2. Enter Username 
+2022-08-01 02:39:57,285 :INFO : <module> :3. Enter Password 
+2022-08-01 02:39:57,389 :INFO : <module> :4. Click Login 
+2022-08-01 02:39:57,477 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:39:57,487 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:39:57,487 :INFO : <module> :********* Test Case Passed **********
+2022-08-01 02:40:24,186 :INFO : <module> :1. Loading the App URL 
+2022-08-01 02:40:26,367 :INFO : <module> :zwdh1lt9
+2022-08-01 02:40:26,382 :INFO : <module> :2. Enter Username 
+2022-08-01 02:40:26,510 :INFO : <module> :3. Enter Password 
+2022-08-01 02:40:26,617 :INFO : <module> :4. Click Login 
+2022-08-01 02:40:29,947 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:40:31,784 :INFO : <module> :PASSED: Login Successful
+2022-08-01 02:40:31,801 :INFO : <module> :2. Enter Username 
+2022-08-01 02:40:31,897 :INFO : <module> :3. Enter Password 
+2022-08-01 02:40:31,997 :INFO : <module> :4. Click Login 
+2022-08-01 02:40:32,053 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:40:32,061 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:40:32,076 :INFO : <module> :2. Enter Username 
+2022-08-01 02:40:32,168 :INFO : <module> :3. Enter Password 
+2022-08-01 02:40:32,247 :INFO : <module> :4. Click Login 
+2022-08-01 02:40:32,286 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:40:32,295 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:40:32,309 :INFO : <module> :2. Enter Username 
+2022-08-01 02:40:32,392 :INFO : <module> :3. Enter Password 
+2022-08-01 02:40:32,461 :INFO : <module> :4. Click Login 
+2022-08-01 02:40:32,500 :INFO : <module> :5. Verify if Login is successful 
+2022-08-01 02:40:32,508 :INFO : <module> :Passed: verifying the negative scenario
+2022-08-01 02:40:32,508 :INFO : <module> :********* Test Case Passed **********
