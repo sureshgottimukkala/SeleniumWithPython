@@ -99,7 +99,6 @@ def pytest_runtest_makereport(item, call):
             # extra.append(pytest_html.extras.html('<div>Additional HTML</div>'))
         # always add url to report
         extra.append(pytest_html.extras.url("https://google.com"))
-        extra.append(pytest_html.extras.text("Naa Peru Suresh ra"))
         report.extra = extra
 
 

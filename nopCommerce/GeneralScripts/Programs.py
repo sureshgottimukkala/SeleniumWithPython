@@ -47,8 +47,11 @@ log = logging.getLogger()
 
 @pytest.mark.parametrize("x", [2, 4])
 @pytest.mark.parametrize("y", [3, 9, 7])
-def test_param(x,y):
+def test_param(x, y):
     print("x:", x)
     print("y:", y)
     log.info("Value is:", x)
     log.info("Value is:", y)
+
+
+print("Random Value:", random.choice(string.ascii_lowercase + string.digits))
