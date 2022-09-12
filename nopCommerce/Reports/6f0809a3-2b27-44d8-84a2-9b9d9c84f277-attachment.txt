@@ -1,0 +1,7 @@
+[32mINFO    [0m test_Login:test_Login.py:50 1. Loading the App URL 
+[32mINFO    [0m test_Login:test_Login.py:55 2. Enter Username 
+[32mINFO    [0m test_Login:test_Login.py:56 bsiecp03
+[32mINFO    [0m test_Login:test_Login.py:58 3. Enter Password 
+[32mINFO    [0m test_Login:test_Login.py:60 4. Click Login 
+[32mINFO    [0m test_Login:test_Login.py:63 5. Verify if Login is successful 
+[31m[1mERROR   [0m test_Login:test_Login.py:71 Error: Failed verifying the successful logging into the App

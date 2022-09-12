@@ -46,7 +46,7 @@ def setup(request):
         driver = webdriver.Edge(service=Service(EdgeChromiumDriverManager().install()))
     driver.maximize_window()
     driver.implicitly_wait(30)
-    # request.instance.driver = driver
+    request.instance.driver = driver
 
     yield driver
     print("Closing the browser")

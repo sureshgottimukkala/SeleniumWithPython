@@ -21,7 +21,7 @@ now = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 # FeatureFile = BASE_DIR.joinpath(featureFileDir).joinpath(featureFileName)
 
 
-class Test_001_Login(BaseClass):
+class Test_001_Login():
 
     @pytest.mark.usefixtures("setup")
     def test_homePageTitle(self):

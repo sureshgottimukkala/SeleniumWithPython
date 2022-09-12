@@ -938,3 +938,48 @@ p URL
 2022-08-01 02:40:32,500 :INFO : <module> :5. Verify if Login is successful 
 2022-08-01 02:40:32,508 :INFO : <module> :Passed: verifying the negative scenario
 2022-08-01 02:40:32,508 :INFO : <module> :********* Test Case Passed **********
+2022-09-08 11:57:26,459 :INFO : Test_001_Login :1. Loading the App URL 
+2022-09-08 11:57:55,462 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 11:57:59,464 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 11:59:39,802 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 11:59:44,031 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 12:01:11,352 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 12:01:14,156 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-09-08 12:01:14,162 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-09-08 12:01:20,155 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 12:01:37,644 :INFO : test_Login :2. Enter Username 
+2022-09-08 12:01:37,645 :INFO : test_Login :jff6ovb1
+2022-09-08 12:01:37,843 :INFO : test_Login :3. Enter Password 
+2022-09-08 12:01:37,999 :INFO : test_Login :4. Click Login 
+2022-09-08 12:01:42,681 :INFO : test_Login :5. Verify if Login is successful 
+2022-09-08 12:01:42,681 :ERROR : test_Login :Error: Failed verifying the successful logging into the App
+2022-09-08 12:27:45,607 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 12:27:47,031 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-09-08 12:27:47,036 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-09-08 12:27:53,286 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 12:27:56,469 :INFO : test_Login :2. Enter Username 
+2022-09-08 12:27:56,469 :INFO : test_Login :29g18dzr
+2022-09-08 12:27:56,601 :INFO : test_Login :3. Enter Password 
+2022-09-08 12:27:56,707 :INFO : test_Login :4. Click Login 
+2022-09-08 12:28:00,507 :INFO : test_Login :5. Verify if Login is successful 
+2022-09-08 12:28:00,507 :ERROR : test_Login :Error: Failed verifying the successful logging into the App
+2022-09-08 12:29:13,226 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 12:29:15,604 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-09-08 12:29:15,707 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-09-08 12:29:22,316 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 12:29:24,942 :INFO : test_Login :2. Enter Username 
+2022-09-08 12:29:24,942 :INFO : test_Login :mjo43owq
+2022-09-08 12:29:25,061 :INFO : test_Login :3. Enter Password 
+2022-09-08 12:29:25,198 :INFO : test_Login :4. Click Login 
+2022-09-08 12:29:28,013 :INFO : test_Login :5. Verify if Login is successful 
+2022-09-08 12:29:28,013 :ERROR : test_Login :Error: Failed verifying the successful logging into the App
+2022-09-08 12:29:53,845 :INFO : test_homePageTitle :1. Loading the App URL 
+2022-09-08 12:29:55,436 :INFO : test_homePageTitle :2. Verifying the homepage title 
+2022-09-08 12:29:55,441 :ERROR : test_homePageTitle :Error: Failed verifying the title of the webpage
+2022-09-08 12:30:01,562 :INFO : test_Login :1. Loading the App URL 
+2022-09-08 12:30:04,399 :INFO : test_Login :2. Enter Username 
+2022-09-08 12:30:04,399 :INFO : test_Login :bsiecp03
+2022-09-08 12:30:04,566 :INFO : test_Login :3. Enter Password 
+2022-09-08 12:30:04,703 :INFO : test_Login :4. Click Login 
+2022-09-08 12:30:09,304 :INFO : test_Login :5. Verify if Login is successful 
+2022-09-08 12:30:09,304 :ERROR : test_Login :Error: Failed verifying the successful logging into the App
